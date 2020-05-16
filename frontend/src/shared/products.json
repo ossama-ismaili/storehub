@@ -1,0 +1,74 @@
+[
+  {
+    "category":"ANDROID TABLET",
+    "name":"HUAWEI MEDIAPAD T3",
+    "image":"images/huawei-mediapad-t3-8-lte-tablette-tactile-8-gris_1.jpg",
+    "price":189
+  },
+  {
+    "category":"WASHING MACHINE",
+    "name":"ARTHUR MARTIN AW6S7244AWN",
+    "image":"images/washing-maching.jpg",
+    "price":359
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"HUAWEI Y7P BLACK",
+    "image":"images/smartpohne-huawei-y7p-noir.jpg",
+    "price":179
+  },
+  {
+    "category":"AMERICAN FRIDGE - SIDE BY SIDE",
+    "name":"ARTHUR MARTIN ANF5604JOX",
+    "image":"images/american-fridge.jpg",
+    "price":1299
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"SAMSUNG GALAXY FOLD BLACK",
+    "image":"images/samsung-galaxy-fold-black.jpg",
+    "price":1999
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"SAMSUNG GALAXY FOLD SILVER",
+    "image":"images/samsung-galaxy-fold-silver.jpg",
+    "price":1999
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"SAMSUNG GALAXY S20 GRAY",
+    "image":"images/samsung-galaxy-s20-gray.jpg",
+    "price":1849
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"SAMSUNG GALAXY S20 BLUE",
+    "image":"images/samsung-galaxy-s20-blue.jpg",
+    "price":990
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"SAMSUNG GALAXY S20 + BLACK",
+    "image":"images/samsung-galaxy-s20-plus-black.jpg",
+    "price":1099
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"SAMSUNG GALAXY S20 + GRAY",
+    "image":"images/samsung-galaxy-s20-plus-gray.jpg",
+    "price":1099
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"SAMSUNG GALAXY S20 + BLUE",
+    "image":"images/samsung-galaxy-s20-plus-blue.jpg",
+    "price":1099
+  },
+  {
+    "category":"ANDROID PHONE",
+    "name":"SAMSUNG GALAXY S20 PINK",
+    "image":"images/samsung-galaxy-s20-pink.jpg",
+    "price":990
+  }
+]

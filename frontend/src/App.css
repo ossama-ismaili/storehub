@@ -1,0 +1,179 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+.App-home{
+  margin: 10px;
+}
+
+.App-products{
+  margin: 10px;
+}
+
+.App-cart{
+  margin: 10px;
+}
+
+.App-contact{
+  margin: 10px;
+}
+
+.App-about{
+  margin: 10px;
+}
+
+.App-error-hide{
+  display: none;
+}
+
+.App-error-show{
+  display: block;
+}
+
+.label{
+  color:#fff;
+  background-color: #118;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+.App-contact-title{
+  font-family: 'Lato', sans-serif;
+  font-size: 22px;
+  color: #555;
+  text-align: center;
+  padding: 25px;
+}
+
+.App-footer{
+  border-top: 1px solid #ccc ;
+  margin-top: 20px;
+  padding: 15px 15px 0px 15px;
+}
+
+.list-group-item{
+  width:100%;
+}
+
+.App-slide-image{
+  width:100%;
+  height: 500px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  height: 50px;
+  width: 50px;
+  outline: black;
+  background-color: rgba(0, 0, 0, 0.3);
+  background-size: 100%, 100%;
+}
+
+.carousel-caption{
+  background-color:#fff;
+  opacity: 75%;
+}
+
+.carousel-caption h3{
+  color:#115;
+}
+
+.carousel-caption p{
+  color:#448;
+}
+
+.App-about-card{
+  padding: 20px;
+  margin-bottom: 130px;
+}
+
+.App-about-title h1{
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  border-bottom: 2px #ccc solid;
+}
+
+.App-about-subtitle h2{
+  font-size: 18px;
+  color: #6f6f6f;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App-about-text{
+  margin-top: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.App-product-category{
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App-product-content{
+  margin:5px;
+}
+
+.App-product-card{
+  height: 500px;
+}
+
+.App-product-title{
+  height: 35%;
+}
+
+.App-product-title h1{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App-product-subtitle{
+  height: 25%;
+}
+
+.App-product-subtitle h2{
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App-cart-title{
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px;
+}
+
+.App-cart-item{
+  border-radius: 2px;
+  width: 100%;
+  padding: 5px;
+  border: 1px #ccc solid;
+}
+
+.App-cart-item-price{
+  font-weight: 600;
+}
+
+.App-cart-content{
+  border:1px #eee solid;
+  padding: 20px 10px 20px 10px;
+}
+
+@media (min-width:960px){
+  .App-product{
+    width:25%;
+  }
+}
+
+@media (min-width:720px) AND (max-width:959px){
+  .App-product{
+    width:33.33%;
+  }
+}
+
+@media (max-width:719px){
+  .App-product{
+    width:50%;
+  }
+}
+
+

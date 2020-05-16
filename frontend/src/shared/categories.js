@@ -1,0 +1,6 @@
+export const CATEGORIES=[
+    "ANDROID TABLET",
+    "WASHING MACHINE",
+    "ANDROID PHONE",
+    "AMERICAN FRIDGE - SIDE BY SIDE"
+];
